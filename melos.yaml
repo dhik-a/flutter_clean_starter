@@ -7,6 +7,7 @@ packages:
   - packages/common
   - packages/presentation/feature_dashboard
   - packages/presentation/feature_feed
+  - packages/presentation/feature_bookmark
 
 command:
   bootstrap:

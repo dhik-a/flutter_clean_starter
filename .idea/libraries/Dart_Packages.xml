@@ -358,6 +358,7 @@
           <value>
             <list>
               <option value="$PROJECT_DIR$/../../flutter-sdk-3.0.1/flutter/packages/flutter/lib" />
+              <option value="$USER_HOME$/fvm/versions/3.27.1/packages/flutter/lib" />
             </list>
           </value>
         </entry>
@@ -379,6 +380,7 @@
           <value>
             <list>
               <option value="$PROJECT_DIR$/../../flutter-sdk-3.0.1/flutter/packages/flutter_test/lib" />
+              <option value="$USER_HOME$/fvm/versions/3.27.1/packages/flutter_test/lib" />
             </list>
           </value>
         </entry>
@@ -738,6 +740,7 @@
           <value>
             <list>
               <option value="$PROJECT_DIR$/../../flutter-sdk-3.0.1/flutter/bin/cache/pkg/sky_engine/lib" />
+              <option value="$USER_HOME$/fvm/versions/3.27.1/bin/cache/pkg/sky_engine/lib" />
             </list>
           </value>
         </entry>
@@ -1165,6 +1168,9 @@
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/yaml_edit-2.2.1/lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/yaml_edit-2.2.2/lib" />
       <root url="file://$USER_HOME$/fvm/versions/3.27.1/bin/cache/dart-sdk/pkg/_macros/lib" />
+      <root url="file://$USER_HOME$/fvm/versions/3.27.1/bin/cache/pkg/sky_engine/lib" />
+      <root url="file://$USER_HOME$/fvm/versions/3.27.1/packages/flutter/lib" />
+      <root url="file://$USER_HOME$/fvm/versions/3.27.1/packages/flutter_test/lib" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
