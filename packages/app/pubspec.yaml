@@ -4,13 +4,17 @@ publish_to: 'none'
 version: 0.0.1+1
 
 environment:
-  sdk: ^3.5.2
+  sdk: '>=3.5.0 <4.0.0'
 
 dependencies:
   flutter:
     sdk: flutter
   common:
     path: ../common
+  feature_dashboard:
+    path: ../presentation/feature_dashboard
+  feature_feed:
+    path: ../presentation/feature_feed
 
   get_it: ^8.0.0
   auto_route: ^9.2.2

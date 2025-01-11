@@ -5,6 +5,8 @@ sdkPath: .fvm/flutter_sdk
 packages:
   - packages/app
   - packages/common
+  - packages/presentation/feature_dashboard
+  - packages/presentation/feature_feed
 
 command:
   bootstrap:

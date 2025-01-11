@@ -1,5 +1,5 @@
-name: feature_dashboard
-description: "Module for the app dashboard."
+name: feature_feed
+description: "Module for feed of posts."
 
 version: 1.0.0+1
 
@@ -11,8 +11,6 @@ dependencies:
     sdk: flutter
   common:
     path: ../../common
-  feature_feed:
-    path: ../../presentation/feature_feed
 
   cupertino_icons: ^1.0.8
   auto_route: ^9.2.2

@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/packages/app/melos_app.iml" filepath="$PROJECT_DIR$/packages/app/melos_app.iml" />
       <module fileurl="file://$PROJECT_DIR$/packages/common/melos_common.iml" filepath="$PROJECT_DIR$/packages/common/melos_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/presentation/feature_dashboard/melos_feature_dashboard.iml" filepath="$PROJECT_DIR$/packages/presentation/feature_dashboard/melos_feature_dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/presentation/feature_feed/melos_feature_feed.iml" filepath="$PROJECT_DIR$/packages/presentation/feature_feed/melos_feature_feed.iml" />
       <module fileurl="file://$PROJECT_DIR$/melos_flutter_clean_starter.iml" filepath="$PROJECT_DIR$/melos_flutter_clean_starter.iml" />
     </modules>
   </component>
