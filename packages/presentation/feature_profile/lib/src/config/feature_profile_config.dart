@@ -2,14 +2,14 @@ import 'package:common/common.dart';
 
 import 'di.dart' as di;
 
-class FeatureFeedConfig extends Config {
-  FeatureFeedConfig._();
+class FeatureProfileConfig extends Config {
+  FeatureProfileConfig._();
 
-  factory FeatureFeedConfig.getInstance() {
+  factory FeatureProfileConfig.getInstance() {
     return _instance;
   }
 
-  static final FeatureFeedConfig _instance = FeatureFeedConfig._();
+  static final FeatureProfileConfig _instance = FeatureProfileConfig._();
 
   @override
   Future<bool> config() async {

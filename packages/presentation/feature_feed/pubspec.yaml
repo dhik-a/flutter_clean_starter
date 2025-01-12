@@ -1,5 +1,5 @@
 name: feature_feed
-description: "Module for feed of posts."
+description: "Presentation module for feed."
 
 version: 1.0.0+1
 
@@ -11,6 +11,8 @@ dependencies:
     sdk: flutter
   common:
     path: ../../common
+  feature_common:
+    path: ../feature_common
 
   cupertino_icons: ^1.0.8
   auto_route: ^9.2.2

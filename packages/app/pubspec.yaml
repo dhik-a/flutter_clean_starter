@@ -11,10 +11,16 @@ dependencies:
     sdk: flutter
   common:
     path: ../common
+  feature_common:
+    path: ../presentation/feature_common
   feature_dashboard:
     path: ../presentation/feature_dashboard
   feature_feed:
     path: ../presentation/feature_feed
+  feature_bookmark:
+    path: ../presentation/feature_bookmark
+  feature_profile:
+    path: ../presentation/feature_profile
 
   get_it: ^8.0.0
   auto_route: ^9.2.2
