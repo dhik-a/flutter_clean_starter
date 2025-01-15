@@ -35,6 +35,7 @@ doc/api/
 **/*.gr.dart
 **/*.gm.dart
 **/*.lock
+**/*.mocks.dart
 /*.iml
 /.fvmrc
 

@@ -1,9 +1,14 @@
 import 'package:domain_post/domain_post.dart';
+import 'package:domain_post/src/repository/post_repository.dart';
 import 'package:injectable/injectable.dart';
 
 @injectable
 class GetPosts {
+  final PostRepository repository;
+
+  GetPosts({required this.repository});
+
   Future<List<Post>> call() async {
-    return [];
+    return repository.getPosts();
   }
 }
