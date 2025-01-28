@@ -1,5 +1,5 @@
-name: feature_feed
-description: "Presentation module for feed."
+name: domain_profile
+description: "Domain module for user profile."
 
 version: 1.0.0+1
 
@@ -11,21 +11,13 @@ dependencies:
     sdk: flutter
   common:
     path: ../../common
-  domain_post:
-    path: ../../domain/domain_post
-  feature_common:
-    path: ../feature_common
 
   cupertino_icons: ^1.0.8
-  auto_route: ^9.2.2
   get_it: ^8.0.0
   injectable: ^2.5.0
-  intl: ^0.20.2
-  flutter_bloc: ^9.0.0
   freezed_annotation: ^2.4.4
 
 dev_dependencies:
-  auto_route_generator: ^9.0.0
   build_runner: ^2.4.14
   flutter_test:
     sdk: flutter

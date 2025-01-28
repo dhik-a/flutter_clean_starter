@@ -11,6 +11,10 @@ dependencies:
     sdk: flutter
   common:
     path: ../common
+  data_post:
+    path: ../data/data_post
+  domain_post:
+    path: ../domain/domain_post
   feature_common:
     path: ../presentation/feature_common
   feature_dashboard:
