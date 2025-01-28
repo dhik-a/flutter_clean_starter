@@ -15,6 +15,8 @@ class PostDataSourceImpl implements PostDataSource {
         id: '$index',
         title: 'Post $index',
         body: 'Post body $index',
+        createdDate: DateTime.now().toString(),
+        updatedDate: DateTime.now().toString(),
       ),
     );
   }

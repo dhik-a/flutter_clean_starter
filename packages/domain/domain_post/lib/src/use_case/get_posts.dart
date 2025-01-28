@@ -1,5 +1,4 @@
 import 'package:domain_post/domain_post.dart';
-import 'package:domain_post/src/repository/post_repository.dart';
 import 'package:injectable/injectable.dart';
 
 @injectable
