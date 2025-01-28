@@ -11,6 +11,8 @@ dependencies:
     sdk: flutter
   common:
     path: ../../common
+  domain_post:
+    path: ../../domain/domain_post
   feature_common:
     path: ../feature_common
 
@@ -18,10 +20,12 @@ dependencies:
   auto_route: ^9.2.2
   get_it: ^8.0.0
   injectable: ^2.5.0
+  freezed_annotation: ^2.4.4
 
 dev_dependencies:
   auto_route_generator: ^9.0.0
   build_runner: ^2.4.14
   flutter_test:
     sdk: flutter
+  freezed: ^2.5.7
   injectable_generator: ^2.6.2
