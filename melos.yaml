@@ -6,7 +6,9 @@ packages:
   - packages/app
   - packages/common
   - packages/data/data_post
+  - packages/data/data_profile
   - packages/domain/domain_post
+  - packages/domain/domain_profile
   - packages/presentation/feature_common
   - packages/presentation/feature_dashboard
   - packages/presentation/feature_feed

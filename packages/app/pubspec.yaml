@@ -13,8 +13,12 @@ dependencies:
     path: ../common
   data_post:
     path: ../data/data_post
+  data_profile:
+    path: ../data/data_profile
   domain_post:
     path: ../domain/domain_post
+  domain_profile:
+    path: ../domain/domain_profile
   feature_common:
     path: ../presentation/feature_common
   feature_dashboard:
