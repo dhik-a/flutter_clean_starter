@@ -4,7 +4,6 @@ Starter project for Flutter with Clean Architecture and modular approach.
 
 Libraries used:
 
-* [fvm](https://pub.dev/packages/fvm) for Flutter version management
 * [melos](https://pub.dev/packages/melos) for multi-packages management
 * [auto_route](https://pub.dev/packages/auto_route) for navigation
 * [flutter_bloc](https://pub.dev/packages/flutter_bloc) for state management
@@ -13,6 +12,6 @@ Libraries used:
 
 ## Getting Started
 
-1. Install [fvm](https://pub.dev/packages/fvm) and [melos](https://pub.dev/packages/melos)
+1. Install [melos](https://pub.dev/packages/melos)
 2. Run `melos bootstrap` to install dependencies
 3. Run `melos generate` to generate code
