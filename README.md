@@ -16,7 +16,8 @@ Libraries used:
 1. run `git clone https://github.com/dhik-a/flutter_clean_starter.git`
 2. `cd <folder-name>`
 3. Install [fvm](https://fvm.app/) and [melos](https://pub.dev/packages/melos)
-4. Make sure you are at the root folder of the project then run `fvm use <your-preferred-flutter-version>` (as of now, this repo use Flutter 3.27.1)
-5. Replace the name of the project with your desired name in `melos.yaml`
-6. Run `melos bootstrap` to install dependencies
-7. Run `melos generate` to generate code
+4. Make sure you are at the root folder of the project
+5. Run `fvm use <your-preferred-flutter-version>`
+6. Replace the name of the project with your desired name in `melos.yaml`
+7. Run `melos bootstrap` to install dependencies
+8. Run `melos generate` to generate code
