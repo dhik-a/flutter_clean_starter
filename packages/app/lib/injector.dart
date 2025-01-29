@@ -1,5 +1,7 @@
 import 'package:data_post/data_post.dart';
+import 'package:data_profile/data_profile.dart';
 import 'package:domain_post/domain_post.dart';
+import 'package:domain_profile/domain_profile.dart';
 import 'package:feature_bookmark/feature_bookmark.dart';
 import 'package:feature_common/feature_common.dart';
 import 'package:feature_dashboard/feature_dashboard.dart';
@@ -9,9 +11,11 @@ import 'package:feature_profile/feature_profile.dart';
 Future<void> configureDependencies() async {
   // Data Dependency Injection
   DataPostConfig.getInstance().init();
+  DataProfileConfig.getInstance().init();
 
   // Domain Dependency Injection
   DomainPostConfig.getInstance().init();
+  DomainProfileConfig.getInstance().init();
 
   // Feature Dependency Injection
   FeatureCommonConfig.getInstance().init();

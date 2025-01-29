@@ -5,7 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/packages/app/melos_app.iml" filepath="$PROJECT_DIR$/packages/app/melos_app.iml" />
       <module fileurl="file://$PROJECT_DIR$/packages/common/melos_common.iml" filepath="$PROJECT_DIR$/packages/common/melos_common.iml" />
       <module fileurl="file://$PROJECT_DIR$/packages/data/data_post/melos_data_post.iml" filepath="$PROJECT_DIR$/packages/data/data_post/melos_data_post.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/data/data_profile/melos_data_profile.iml" filepath="$PROJECT_DIR$/packages/data/data_profile/melos_data_profile.iml" />
       <module fileurl="file://$PROJECT_DIR$/packages/domain/domain_post/melos_domain_post.iml" filepath="$PROJECT_DIR$/packages/domain/domain_post/melos_domain_post.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/domain/domain_profile/melos_domain_profile.iml" filepath="$PROJECT_DIR$/packages/domain/domain_profile/melos_domain_profile.iml" />
       <module fileurl="file://$PROJECT_DIR$/packages/presentation/feature_bookmark/melos_feature_bookmark.iml" filepath="$PROJECT_DIR$/packages/presentation/feature_bookmark/melos_feature_bookmark.iml" />
       <module fileurl="file://$PROJECT_DIR$/packages/presentation/feature_common/melos_feature_common.iml" filepath="$PROJECT_DIR$/packages/presentation/feature_common/melos_feature_common.iml" />
       <module fileurl="file://$PROJECT_DIR$/packages/presentation/feature_dashboard/melos_feature_dashboard.iml" filepath="$PROJECT_DIR$/packages/presentation/feature_dashboard/melos_feature_dashboard.iml" />
