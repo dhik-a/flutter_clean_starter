@@ -19,5 +19,6 @@ Libraries used:
 4. Make sure you are at the root folder of the project
 5. Run `fvm use <your-preferred-flutter-version>`
 6. Replace the name of the project with your desired name in `melos.yaml`
-7. Run `melos bootstrap` to install dependencies
-8. Run `melos generate` to generate code
+7. Run `dart pub global activate melos` to install melos
+8. Run `melos bootstrap` to install dependencies
+9. Run `melos generate` to generate code
