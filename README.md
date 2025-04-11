@@ -13,12 +13,13 @@ Libraries used:
 
 ## Getting Started
 
-1. run `git clone https://github.com/dhik-a/flutter_clean_starter.git`
-2. `cd <folder-name>`
-3. Install [fvm](https://fvm.app/) and [melos](https://pub.dev/packages/melos)
-4. Make sure you are at the root folder of the project
-5. Run `fvm use <your-preferred-flutter-version>`
-6. Replace the name of the project with your desired name in `melos.yaml`
-7. Run `dart pub global activate melos` to install melos
-8. Run `melos bootstrap` to install dependencies
-9. Run `melos generate` to generate code
+1. Make sure you have Flutter installed already. Check [here](https://docs.flutter.dev/get-started/install?gad_source=1&gbraid=0AAAAAC-INI8onKbjZvE-G3I3NBTgz2uLl&gclid=CjwKCAjw--K_BhB5EiwAuwYoyjtHEmjOuO4YJ-qBJl-u4TiGTLB9ENdRTWeUA-3HXeqh2i-97DBgMhoCcN8QAvD_BwE&gclsrc=aw.ds) for guide.
+2. run `git clone https://github.com/dhik-a/flutter_clean_starter.git`
+3. `cd <folder-name>`
+4. Install [fvm](https://fvm.app/) and [melos](https://pub.dev/packages/melos)
+5. Make sure you are at the root folder of the project
+6. Run `fvm use <your-preferred-flutter-version>`
+7. Replace the name of the project with your desired name in `melos.yaml`
+8. Run `dart pub global activate melos` to install melos
+9. Run `melos bootstrap` to install dependencies
+10. Run `melos generate` to generate code
