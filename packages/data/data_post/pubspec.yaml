@@ -2,9 +2,11 @@ name: data_post
 description: "Data module for posts."
 
 version: 1.0.0+1
+publish_to: 'none'
+resolution: workspace
 
 environment:
-  sdk: '>=3.5.0 <4.0.0'
+  sdk: '>=3.8.0 <4.0.0'
 
 dependencies:
   flutter:
